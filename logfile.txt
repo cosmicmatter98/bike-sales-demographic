@@ -6,10 +6,10 @@
 * check for incorrect values
 * create age bracket column to classify the various age-data using nested IF statement
 3. Processing - Analyzing using pivot table
-* avg income vs buying status
-* commute distance vs buying status
-* age brackets vs buying status
-* age vs b.s.
+* average income vs buying behaviour
+* commute distance vs buying behaviour
+* age brackets vs buying behaviour
+* age vs buying behaviour
 4. Sharing using dashboard
 * building dashboard
-* add slicer to make d/board interactive
+* add slicer to make dashboard interactive
