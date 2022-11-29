@@ -1,0 +1,15 @@
+1. familiarisation
+2. cleaning
+* search for duplicates and remove them
+* set descriptive values and parameters for marital status and gender
+* check for formats of every columns
+* check for incorrect values
+* create age bracket column to classify the various age-data using nested IF statement
+3. Processing - Analyzing using pivot table
+* avg income vs buying status
+* commute distance vs buying status
+* age brackets vs buying status
+* age vs b.s.
+4. Sharing using dashboard
+* building dashboard
+* add slicer to make d/board interactive
